@@ -1,0 +1,6 @@
+[submodule "client-side"]
+	path = client-side
+	url = https://github.com/luminolio/luminol-client-side
+[submodule "server-side"]
+	path = server-side
+	url = https://github.com/luminolio/luminol-server-side
